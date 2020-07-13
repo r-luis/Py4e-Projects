@@ -1,0 +1,8 @@
+informações usáveis por hora:
+insights data:
+- lifetime total likes
+- daily new likes
+- daily total reach
+
+
+auxilio: 357902
